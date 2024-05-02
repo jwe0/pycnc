@@ -11,8 +11,9 @@
 ## Install
 1. Clone the repository `git clone https://github.com/jwe0/pycnc`
 2. Change your directory to the project `cd pycnc`
-3. Run the script with `python server.py`
-4. Host a tcp server on 5050 and put the endpoint in the client.py file.
+3. Install requirements with `pip install -r requirements.txt`
+4. Run the script with `python server.py`
+5. Host a tcp server on 5050 and put the endpoint in the client.py file.
 
 ## Features
 
